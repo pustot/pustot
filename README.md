@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=twaqngu&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=twaqngu&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=twaqngu&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=twaqngu&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=twaqngu&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pustot&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pustot&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pustot&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pustot&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pustot&theme=github)
 
 <!--
-**yangchnx/yangchnx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**pustot/pustot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
